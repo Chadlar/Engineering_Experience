@@ -29,4 +29,5 @@ DEP613E	Seismic Isolation of Structures
 YAP  :  Based on Structural Engineering Program
 DEP  :  Based on Earthquake Engineering Program 
 ZMG  :  Based on Soil Mechanics and Geotechnical Engineering Program
+
 If the last letter of the lecture code is “E”, it means that the taken course is in English, otherwise it is Turkish.
