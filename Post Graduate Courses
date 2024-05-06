@@ -22,3 +22,11 @@ YAP556	Strengthening of Structures with Fiber Reinforced Polymer Composites
 YAP605	Wave Propagation in Solids
 ZMG603E	Geotechnical Earthquake Engineering
 DEP613E	Seismic Isolation of Structures
+
+
+*The Meanings of Course Codes*
+
+YAP  :  Based on Structural Engineering Program
+DEP  :  Based on Earthquake Engineering Program 
+ZMG  :  Based on Soil Mechanics and Geotechnical Engineering Program
+If the last letter of the lecture code is “E”, it means that the taken course is in English, otherwise it is Turkish.
