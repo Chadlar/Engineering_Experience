@@ -13,4 +13,5 @@ The graph below, created by me, shows that an example base isolator moving on no
 
 The video is [ITU Full-Scale CFRP Retrofitting Experiment](https://www.youtube.com/watch?v=MuI9fNgvi2A) that I played significant role.
 
+![Screenshot 2024-05-06 230322](https://github.com/Chadlar/Engineering_Experience/assets/163336843/cbc2a811-166d-4bce-a3d5-01b18d3608eb)
 
